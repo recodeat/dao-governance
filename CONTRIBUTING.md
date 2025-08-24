@@ -1,55 +1,59 @@
-# Contributing to recode.at DAO
+# Mitarbeit bei der recode.at DAO
 
-Welcome! We're excited that you want to contribute to our decentralized community.
+Willkommen! Schön, dass du bei unserer dezentralen Community mitmachen möchtest.
 
-## How to Contribute
+## Wie du mitmachen kannst
 
-### 1. Join the Community
-- Star this repository to show your interest
-- Watch this repository for updates
-- Introduce yourself in GitHub Discussions
+### 1. Community beitreten
+- Repository starren, um dein Interesse zu zeigen
+- Repository watchen für Updates
+- Stelle dich in GitHub Discussions vor
 
-### 2. Ways to Contribute
+### 2. Möglichkeiten zum Mitmachen
 
 #### Governance
-- Participate in proposal discussions
-- Vote on community decisions (core contributors)
-- Help improve governance processes
+- Bei Vorschlagsdiskussionen teilnehmen
+- Bei Community-Entscheidungen abstimmen (Core Contributors)
+- Governance-Prozesse verbessern helfen
 
 #### Development
-- Contribute to [osCASH.me](https://github.com/osCASHme) messenger
-- Build community tools in [recode-tools](https://github.com/recodeat/recode-tools)
-- Improve documentation
+- Bei [osCASH.me](https://github.com/osCASHme) Messenger mitarbeiten
+- Community-Tools in [recode-tools](https://github.com/recodeat/recode-tools) bauen
+- Dokumentation verbessern
 
 #### Community
-- Write blog posts for [recode-blog](https://github.com/recodeat/recode-blog)
-- Help newcomers get started
-- Share privacy and security knowledge
+- Blog-Posts für [recode-blog](https://github.com/recodeat/recode-blog) schreiben
+- Neulingen beim Einstieg helfen
+- Privacy- und Security-Wissen teilen
 
-### 3. Making Proposals
-1. Check existing issues to avoid duplicates
-2. Create a new issue with label `proposal`
-3. Use the proposal template (see `.github/ISSUE_TEMPLATE/`)
-4. Allow 7 days for community discussion
-5. Core contributors will vote on the proposal
+### 3. Vorschläge einreichen
+1. Existing Issues prüfen, um Duplikate zu vermeiden
+2. Neues Issue mit Label `proposal` erstellen
+3. Proposal Template verwenden (siehe `.github/ISSUE_TEMPLATE/`)
+4. 7 Tage für Community-Diskussion einräumen
+5. Core Contributors stimmen über den Vorschlag ab
 
-### 4. Development Workflow
-1. Fork the relevant repository
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Make your changes with clear commit messages
-4. Submit a Pull Request
-5. Wait for code review and approval
+### 4. Development-Workflow
+1. Relevantes Repository forken
+2. Feature Branch erstellen: `git checkout -b feature/dein-feature`
+3. Änderungen mit klaren Commit-Messages machen
+4. Pull Request einreichen
+5. Auf Code Review und Approval warten
 
-## Getting Help
-- **General Questions**: GitHub Discussions
-- **Technical Issues**: GitHub Issues  
-- **Private Matters**: github@recode.at
+## Hilfe bekommen
+- **Allgemeine Fragen**: GitHub Discussions
+- **Technische Probleme**: GitHub Issues  
+- **Private Angelegenheiten**: github@recode.at
 
-## Core Contributor Path
-Regular contributors may be nominated to become core contributors with voting rights. This requires:
-- Consistent participation for 3+ months
-- Quality contributions to multiple projects
-- Community endorsement
-- Approval by existing core contributors
+## Core Contributor werden
+Regelmäßige Contributors können als Core Contributors mit Abstimmungsrechten nominiert werden. Das erfordert:
+- Konsistente Teilnahme über 3+ Monate
+- Qualitätsbeiträge zu mehreren Projekten
+- Community-Unterstützung
+- Zustimmung der bestehenden Core Contributors
 
-Thank you for helping build a more private and secure digital future! 🚀
+Danke, dass du hilfst, eine privatere und sicherere digitale Zukunft zu bauen! 🚀
+
+---
+
+**Andere Sprachen:** [English](languages/en/CONTRIBUTING.md)

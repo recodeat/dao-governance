@@ -1,37 +1,41 @@
 # recode.at DAO Governance
 
 ## Vision
-Building a decentralized community for privacy-focused open source projects.
+Wir bauen eine dezentrale Community für Privacy-fokussierte Open Source Projekte.
 
-## Decision Making Process
+## Entscheidungsprozess
 
-### 1. Proposal Phase
-- Community members submit proposals via GitHub Issues
+### 1. Vorschlagsphase
+- Community-Mitglieder reichen Vorschläge über GitHub Issues ein
 - Label: `proposal` 
-- Minimum discussion period: 7 days
+- Mindest-Diskussionszeit: 7 Tage
 
-### 2. Voting Phase
-- Core contributors vote on proposals
-- Simple majority required for acceptance
-- Voting period: 3 days
+### 2. Abstimmungsphase
+- Core Contributors stimmen über Vorschläge ab
+- Einfache Mehrheit erforderlich
+- Abstimmungszeit: 3 Tage
 
-### 3. Implementation Phase
-- Approved proposals are implemented by volunteers
-- Progress tracked via GitHub Projects
+### 3. Umsetzungsphase
+- Angenommene Vorschläge werden von Freiwilligen umgesetzt
+- Fortschritt wird über GitHub Projects verfolgt
 
 ## Core Contributors
-- @recode-at (Founder)
-- Additional contributors to be elected by community
+- @recode-at (Gründer)
+- Weitere Contributors werden von der Community gewählt
 
-## Projects Under DAO
-- [osCASH.me](https://github.com/osCASHme) - Privacy messenger
-- [recode.at](https://recode.at) - Community platform
-- Community tools and utilities
+## Projekte der DAO
+- [osCASH.me](https://github.com/osCASHme) - Privacy Messenger
+- [recode.at](https://recode.at) - Community-Plattform
+- Community-Tools und Utilities
 
-## Communication Channels
-- **GitHub Discussions**: Primary forum for proposals and decisions
-- **Issues**: Bug reports and feature requests  
-- **Email**: github@recode.at for administrative matters
+## Kommunikationskanäle
+- **GitHub Discussions**: Hauptforum für Vorschläge und Entscheidungen
+- **Issues**: Bug Reports und Feature Requests  
+- **Email**: github@recode.at für administrative Angelegenheiten
 
-## Amendment Process
-This governance document can be amended through the standard proposal process with a 2/3 majority vote.
+## Änderungen an diesem Dokument
+Dieses Governance-Dokument kann über den Standard-Vorschlagsprozess mit einer 2/3-Mehrheit geändert werden.
+
+---
+
+**Andere Sprachen:** [English](languages/en/GOVERNANCE.md)
