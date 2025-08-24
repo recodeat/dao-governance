@@ -1,35 +1,37 @@
+**[🇬🇧 English Version](languages/en/README.md)** | 🇩🇪 Deutsche Version
+
 # recode.at DAO Governance
 
-Welcome to the governance repository for the recode.at Decentralized Autonomous Organization (DAO).
+Willkommen im Governance-Repository der recode.at Decentralized Autonomous Organization (DAO).
 
-## 🏛️ About This DAO
+## 🏛️ Über diese DAO
 
-The recode.at DAO is a community-driven organization focused on building privacy-preserving open source technologies. We believe in transparent governance, collaborative development, and putting privacy first.
+Die recode.at DAO ist eine Community-getriebene Organisation, die sich auf den Aufbau datenschutzwahrende Open Source Technologien fokussiert. Wir glauben an transparente Governance, kollaborative Entwicklung und Privacy First.
 
-## 📋 Key Documents
+## 📋 Wichtige Dokumente
 
-- **[GOVERNANCE.md](GOVERNANCE.md)** - Our decision-making processes and organizational structure
-- **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Community standards and behavior guidelines  
-- **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to get involved and contribute
+- **[GOVERNANCE.md](GOVERNANCE.md)** - Unsere Entscheidungsprozesse und Organisationsstruktur
+- **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Community-Standards und Verhaltensrichtlinien
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Wie du dich beteiligen und beitragen kannst
 
-## 🚀 Our Projects
+## 🚀 Unsere Projekte
 
-- **[osCASH.me](https://github.com/osCASHme)** - Privacy-focused messenger with cryptocurrency wallet
-- **[recode-blog](https://github.com/recodeat/recode-blog)** - Community blog and content platform
-- **[recode-tools](https://github.com/recodeat/recode-tools)** - Developer tools and utilities
+- **[osCASH.me](https://github.com/osCASHme)** - Privacy-fokussierter Messenger mit eUSD & MOB Wallet (MobileCoin)
+- **[recode-blog](https://github.com/recodeat/recode-blog)** - Community-Blog und Content-Plattform
+- **[recode-tools](https://github.com/recodeat/recode-tools)** - Developer-Tools und Utilities
 
-## 💬 Get Involved
+## 💬 Mitmachen
 
-- **Discussions**: Share ideas and participate in governance discussions
-- **Issues**: Propose changes or report problems
-- **Contributions**: Help improve our projects and processes
+- **Discussions**: Ideen teilen und an Governance-Diskussionen teilnehmen
+- **Issues**: Änderungen vorschlagen oder Probleme melden
+- **Contributions**: Hilf unsere Projekte und Prozesse zu verbessern
 
 ## 🔗 Links
 
 - **Website**: [recode.at](https://recode.at)
-- **Contact**: github@recode.at
-- **License**: MIT
+- **Kontakt**: github@recode.at
+- **Lizenz**: MIT
 
 ---
 
-*Building a more private and secure digital future, together.*
+*Gemeinsam eine privatere und sicherere digitale Zukunft bauen.*
